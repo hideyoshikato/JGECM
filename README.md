@@ -6,14 +6,13 @@
 [BCCWJ](https://pj.ninjal.ac.jp/corpus_center/bccwj/)から複数誤りタイプをもつ日本語文法誤り訂正のための評価用コーパス(An Evaluation Corpus for Japanese Grammar Error Correction with Multiple Error Types: JGECM)を構築するためのリポジトリ
 
 
-----------
 ## 実行環境
 
 Python >= 3.6
 [Beautiful Soup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) >= 4.1
 
 
-----------
+
 ## 特徴
 
 提案された日本語GECモデルを複数の誤りタイプごとに評価することが可能なデータセットです．
@@ -25,7 +24,7 @@ Python >= 3.6
 `JGECM_org.csv` : JGECMデータの本体です．各列の説明はデータの説明部分を参照してください．
 `buildJGECM.py` : BCCWJデータを用いて文法的に誤りを含む文と文法的に正しい文の対データを作成するためのスクリプトです．実行手順については実行手順部分を参照してください．また，出力されるデータの形式についてはデータの説明部分を参照してください．
 
-----------
+
 ## データの説明
 
 本データに含まれる誤り種類は下記の通りです．
@@ -75,7 +74,6 @@ Python >= 3.6
 
 
 
-----------
 ## 対訳データ作成の実行手順
 
 **実行例**
@@ -94,13 +92,11 @@ Python >= 3.6
 --sep 誤り挿入箇所を`[`, `]`で囲む場合には1を指定します．省略時には囲まれません．
 
 
-----------
 ## 参考文献
 
 Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso,Takehiko Maruyama, Hideki Ogura, Wakako Kashino,Hanae Koiso, Masaya Yamaguchi, Makiro Tanaka, andYasuharu Den. ``Balanced corpus of contemporary written Japanese". *Language resources and evaluation*, Vol. 48,No. 2, pp. 345–371, 2014.
 
 
-----------
 ## Author
 
 Hideyoshi KATO

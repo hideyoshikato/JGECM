@@ -1,7 +1,7 @@
 # JGECM
 ## 概要
 
-[BCCWJ](https://pj.ninjal.ac.jp/corpus_center/bccwj/)から複数誤りタイプをもつ日本語文法誤り訂正のための評価用コーパス(An Evaluation Corpus for Japanese Grammar Error Correction with Multiple Error Types: JGECM)を構築するためのリポジトリ
+[BCCWJ](https://pj.ninjal.ac.jp/corpus_center/bccwj/)から複数誤りタイプをもつ日本語文法誤り訂正のための評価用コーパス(An Evaluation Corpus for Japanese Grammatical Error Correction with Multiple Error Types: JGECM)を構築するためのリポジトリ
 
 
 ## 実行環境

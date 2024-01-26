@@ -97,7 +97,7 @@ Kikuo Maekawa, Makoto Yamazaki, Toshinobu Ogiso,Takehiko Maruyama, Hideki Ogura,
 ## Author
 
 Hideyoshi KATO
-https://sites.google.com/view/webpageofhideyoshikato/
+https://www.hideyoshikato.com/
 
 ## Licence
 
